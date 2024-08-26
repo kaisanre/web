@@ -1,5 +1,5 @@
 site: samrat's thought space
-url: https://kaisanre.github.io/web/
+url: https://kaisanre.github.io/
 title: samrat's thought space
 description: chaos written down.
 twitter:
@@ -11,9 +11,9 @@ author:
   name: samrat sahoo
   avatar:
   email: #youremail
-  url: https://kaisanre.github.io/web/
+  url: https://kaisanre.github.io/
 permalink: pretty
-baseurl: ""
+baseurl: "/web/"
 
 highlighter: none
 
